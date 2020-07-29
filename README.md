@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://esambadnews.com/wp-content/uploads/2020/01/Where-to-Learn-Programming-Languages-in-India-Best-Ways-375x195.jpg)]()
+[![Hello 👋🏻](https://picography.co/wp-content/uploads/2018/09/picography-laptop-code-notepad-mobile-small-1-768x512.jpg)]()
 
 
 # About
