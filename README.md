@@ -5,7 +5,7 @@
 
 Undergraduate Student in Informatics and Computer Engineering, specializing in AI systems, machine learning algorithms & Android ecosystems.
 
-Take a look at my work and reach me at: https://www.sijusamson.com/
+Take a look at my CV: https://drive.google.com/file/d/1_Gc-o3I9_z2Uytpr8lelVSqGFxg88WM_/view?usp=sharing
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/giannis-variozidis/
