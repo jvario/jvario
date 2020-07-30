@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://imgur.com/l3adGfp)]()
+[![Hello 👋🏻](https://picresize.com/images/rsz_1rsz_1rsz_11photo-1504639725590-34d0984388bd.jpg)]()
 
 
 # About
