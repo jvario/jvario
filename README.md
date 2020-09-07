@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://miro.medium.com/max/10368/0*ILcumWSaYr7dzY-_)]()
+[![Hello 👋🏻](https://archive.org/download/macbook-laptop-coding/macbook-laptop-coding.jpg)]()
 
 
 # About
