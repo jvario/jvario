@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://archive.org/download/macbook-laptop-coding/macbook-laptop-coding.jpg)]()
+[![Hello 👋🏻](https://media.istockphoto.com/photos/data-scientist-big-data-artificial-intelligence-machine-learning-picture-id886575166?k=6&m=886575166&s=612x612&w=0&h=ZISnB7-dmyLUIXO2VGWIEwX2XB-aP_MEhua96DTUQaU=)]()
 
 
 # About
