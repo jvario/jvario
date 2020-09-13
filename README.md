@@ -3,7 +3,7 @@
 
 # About
 
-Undergraduate Student in Informatics and Computer Engineering, specializing in AI systems, machine learning algorithms & Android ecosystems.
+Undergraduate Student in Informatics and Computer Engineering, specializing in AI systems, Machine Learning algorithms & Android ecosystems.
 
 Take a look at my [CV](https://bit.ly/CV-jvario)
 
