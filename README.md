@@ -5,7 +5,7 @@
 
 Undergraduate Student in Informatics and Computer Engineering, specializing in AI systems, Machine Learning algorithms & Android ecosystems.
 
-Take a look at my [CV](http://bit.ly/jvario-CV)
+Take a look at my [CV](http://bit.ly/jvario_CV)
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/giannis-variozidis/
