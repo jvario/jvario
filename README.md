@@ -2,8 +2,7 @@
 
 
 # About
-
-Graduate Student in Informatics and Computer Engineering, specializing in AI systems, Machine Learning algorithms & Android ecosystems.
+Graduate Student in Informatics & Computer Engineering at the University of West Attica, specializing in  AI systems, Machine Learning & Computer Vision Technologies.
 
 Take a look at my [CV](http://bit.ly/gvarioCV)
 
