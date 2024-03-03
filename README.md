@@ -2,7 +2,7 @@
 
 
 # About
-Graduate Student in Informatics & Computer Engineering at the University of West Attica, specializing in  AI systems, Machine Learning & Computer Vision Technologies.
+Data Scientist specializing in Artificial Intelligence, Machine Learning and Computer Vision. Skilled in various AI sectors including Human Activity Recognition, Motion Tracking, Augmented Reality, and NLP applications. Proficient in working with Agile methodologies, delivering results under pressure in fast-paced environments.
 
 
 
