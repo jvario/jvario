@@ -5,6 +5,9 @@
 Data Scientist specializing in Artificial Intelligence, Machine Learning and Computer Vision. Skilled in various AI sectors including Human Activity Recognition, Motion Tracking, Augmented Reality, and NLP applications. Proficient in working with Agile methodologies, delivering results under pressure in fast-paced environments.
 
 
+# Statistics  
+![Jvario github stats](https://github-readme-stats.vercel.app/api?username=jvario&count_private=True&show_icons=true&theme=react&hide_title=true&line_height=22pt&hide=issues,prs,contribs&hide_rank=True)
+
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/giannis-variozidis/
